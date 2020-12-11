@@ -1,2 +1,2 @@
-# There-will-be-some-tutorials-on-the-subject-of-algebra
+# Trigonometry
 There will be some tutorials on trigonometry
